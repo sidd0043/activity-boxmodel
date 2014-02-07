@@ -21,7 +21,7 @@ html {
     
 /* Controls the typography size on mobile and desktop */
     
-    font-size: 100%; /* 100% = 16px = 1rem */
+    font-size: 100%;
     
     font-family: Georgia, Times, serif;
 }
@@ -73,8 +73,8 @@ p {
 }
 
 figure {
-    margin: 0 auto 1.5rem; /* auto incase we want smaller */
-    width: 100%;/* size can be smaller than, but not larger than 100% */
+    margin: 0 auto 1.5rem; 
+    width: 100%;
 }
 
 figcaption {
@@ -88,8 +88,8 @@ footer {
 }
 
 footer p {
-    font-size: .8rem;
-    margin: 1rem 5% 5rem;
+    font-size: .75rem;
+    margin: .rem 5% 5rem;
     color: white;
 }
 
